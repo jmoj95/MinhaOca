@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MinhaOca</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Cadastro</string>
+
+    <string name="login_label">Usuário</string>
+    <string name="login_hint">Insira seu nome de usuário</string>
+
+    <string name="login_contains_spaces_warning">Login não pode conter espaços em branco</string>
+    <string name="login_is_empty_warning">Login não pode estar vazio</string>
+
+    <string name="password_label">Senha</string>
+    <string name="password_hint">Insira sua senha</string>
+
+    <string name="password_repeat_label">Repetir Senha</string>
+    <string name="password_repeat_hint">Insira sua senha novamente</string>
+
+    <string name="password_repeat_doesnt_match_warning">Senhas não coincidem</string>
+
+    <string name="password_contains_spaces_warning">Senha não pode conter espaços em branco</string>
+    <string name="password_is_empty_warning">Senha não pode estar vazia</string>
+    <string name="password_too_short_warning">Senha deve ter pelo menos 6 caracteres</string>
+
+    <string name="email_label">Email</string>
+    <string name="email_hint">Insira seu Email</string>
+
+    <string name="email_contains_spaces_warning">Email não pode conter espaços em branco</string>
+    <string name="email_is_empty_warning">Email não pode estar vazio</string>
+    <string name="email_wrong_format_warning">Formato de email incorreto</string>
+
+    <string name="phone_label">Telefone</string>
+    <string name="phone_hint">Insira seu número de telefone</string>
+
+    <string name="phone_is_empty_warning">Telefone não pode estar vazio</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="logout">Sair</string>
+
+</resources>

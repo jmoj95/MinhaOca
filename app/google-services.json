@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622945579927",
+    "firebase_url": "https://minhaoca-3bf45.firebaseio.com",
+    "project_id": "minhaoca-3bf45",
+    "storage_bucket": "minhaoca-3bf45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622945579927:android:f1852fb9fdddb497",
+        "android_client_info": {
+          "package_name": "com.example.minhaoca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622945579927-1bi4v8tuj43m4i4mroe84cu14uolm94s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minhaoca",
+            "certificate_hash": "19670412ec36335e914ae7d3bff46f729d98be1e"
+          }
+        },
+        {
+          "client_id": "622945579927-pvrdqsvqdlo1hroppl6eik92u4pnrodo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaVFpjccBqEdKBO9EzOZla8cE8Q1d-tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622945579927-pvrdqsvqdlo1hroppl6eik92u4pnrodo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
